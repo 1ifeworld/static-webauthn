@@ -1,3 +1,15 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/smart-wallet"]
+	path = lib/smart-wallet
+	url = https://github.com/coinbase/smart-wallet
+[submodule "lib/webauthn-sol"]
+	path = lib/webauthn-sol
+	url = https://github.com/base-org/webauthn-sol
+[submodule "lib/FreshCryptoLib"]
+	path = lib/FreshCryptoLib
+	url = https://github.com/rdubois-crypto/FreshCryptoLib
+[submodule "lib/solady"]
+	path = lib/solady
+	url = https://github.com/Vectorized/solady
